@@ -26,4 +26,4 @@ No physical IoT hardware or sensors are required. CPU, energy, bandwidth and lat
 7. add trust-aware aggregation
 8. run poisoning experiment
 9. compare results
-# TrustFed-AI
+
