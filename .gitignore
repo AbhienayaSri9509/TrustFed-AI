@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+data/processed/*
+data/client_splits/*
+results/plots/*
+results/metrics/*
+logs/*
+!data/processed/.gitkeep
+!data/client_splits/.gitkeep
+!results/plots/.gitkeep
+!results/metrics/.gitkeep

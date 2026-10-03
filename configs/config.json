@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "num_clients": 10,
+  "clients_per_round": 5,
+  "num_rounds": 10,
+  "local_epochs": 2,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "model": "MLP",
+  "dataset": "UNSW-NB15",
+  "tprs_weights": {
+    "trust": 0.3,
+    "data_quality": 0.25,
+    "resource": 0.2,
+    "network": 0.15,
+    "privacy_suitability": 0.1
+  },
+  "adaptive_dp": {
+    "epsilon_high_privacy": 0.5,
+    "epsilon_medium_privacy": 1.0,
+    "epsilon_low_privacy": 2.0
+  }
+}
