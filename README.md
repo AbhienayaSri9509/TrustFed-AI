@@ -1,4 +1,4 @@
-# TrustFed-6G / TrustFed AI
+# TrustFed AI
 Adaptive Trust- and Privacy-Aware Federated Learning for Resource-Efficient 6G Edge Networks.
 
 ## Core research
